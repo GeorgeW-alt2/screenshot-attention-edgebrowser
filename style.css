@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 300px;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 18px;
+  text-align: center;
+}
+
+#outputCanvas {
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
